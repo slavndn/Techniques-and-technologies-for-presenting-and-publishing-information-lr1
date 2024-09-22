@@ -1,1 +1,4 @@
-# Techniques-and-technologies-for-presenting-and-publishing-information-lr1
+Славный Даниил Михайлович - Лабораторная работа 1
+
+****
+
